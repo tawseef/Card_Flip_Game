@@ -1,0 +1,57 @@
+.redDisplayCard {
+  display: flex;
+  width: 644px;
+  height: 511px;
+  flex-wrap: wrap;
+}
+
+.blueDisplayCard {
+  display: flex;
+  width: 644px;
+  height: 511px;
+  flex-wrap: wrap;
+}
+
+.alphabetHeight {
+  height: 250px;
+}
+
+.match {
+  font-family: Nunito;
+  font-size: 96px;
+  font-weight: 800;
+  line-height: 130.94px;
+  letter-spacing: 0.08em;
+  text-align: center;
+  color: #ef8f35;
+  border: 7px solid #ffffff;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.modalPic1 {
+  position: absolute;
+  left: 0px;
+  top: 99px;
+}
+
+.selectCloudImg {
+  height: 118.53px;
+}
+
+.selectCloud {
+  display: flex;
+  position: absolute;
+  padding: 0px 0px 0px 497px;
+  margin: -80px 0px 0px 0px;
+}
+
+.selCloudText {
+  margin: 0px 0px 0px -221px;
+  padding: 14px 0px 0px 0px;
+  font-family: Nunito;
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 43.65px;
+  text-align: center;
+  color: #11aec6;
+}

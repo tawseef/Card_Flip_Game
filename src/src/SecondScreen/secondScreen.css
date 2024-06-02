@@ -1,0 +1,106 @@
+.secondScreen {
+  width: 1512px;
+  height: 982px;
+  background-image: url("../asset/backgroundImage.svg");
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.startBtn {
+  align-self: self-end;
+  margin: 0px 59px 55px 0px;
+}
+
+.card {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 285px;
+  background-color: white;
+  box-shadow: 5px 10px;
+  border-radius: 69px;
+  height: 438px;
+  width: 351px;
+}
+
+.dispCardPic {
+  height: 221px;
+}
+
+.dispDualCardPic {
+  height: 255px;
+  margin-bottom: -64px;
+}
+
+.cardDiv {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.nav {
+  display: flex;
+}
+.arrowRect {
+  position: absolute;
+  margin: 45px 0px 0px 45px;
+}
+.arrow {
+  height: 194px;
+}
+
+.back {
+  position: absolute;
+  margin: 72px 0px 0px 50px;
+}
+
+.blueText {
+  font-family: Nunito;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 54.56px;
+  text-align: center;
+  color: #11aec6;
+}
+
+.greenText {
+  font-family: Nunito;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 32.74px;
+  text-align: center;
+  color: #a6c930;
+}
+
+.override {
+  position: absolute;
+  top: 336px;
+  left: 234px;
+}
+
+.loadingDiv {
+  position: absolute;
+  top: 44.44px;
+  left: 356px;
+}
+
+.loading {
+  height: 37.39px;
+  width: 755.26px;
+}
+
+.greyDiv {
+  position: absolute;
+  left: 962px;
+}
+
+.greyImg {
+  height: 134px;
+}
+
+.winner {
+  display: flex;
+  position: absolute;
+}

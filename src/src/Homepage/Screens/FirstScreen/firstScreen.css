@@ -1,0 +1,61 @@
+.cloud {
+  display: flex;
+  justify-content: flex-end;
+  margin: 152px 163px 0px 0px;
+}
+
+.cloud1 {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0px 130px 102px 0px;
+}
+
+.cloudImg {
+  height: 219px;
+  width: 516px;
+}
+
+.cloudImg1 {
+  height: 266px;
+  width: 612px;
+}
+.monkeyDiv {
+  display: flex;
+  justify-content: center;
+}
+
+.monkeyImage {
+  height: 663px;
+  position: absolute;
+  top: 244px;
+}
+
+.cloudText {
+  position: absolute;
+  z-index: 1;
+  padding: 47px 80px 0px 0px;
+}
+
+.cloudText1 {
+  position: absolute;
+  z-index: 1;
+  padding: 47px 80px 0px 0px;
+}
+
+.text {
+  font-family: Nunito;
+  font-size: 45px;
+  font-weight: 800;
+  line-height: 76.38px;
+  text-align: left;
+  color: #11aec6;
+}
+
+.text1 {
+  font-family: Nunito;
+  font-size: 40.92px;
+  font-weight: 800;
+  line-height: 61.27px;
+  text-align: left;
+  color: #11aec6;
+}
