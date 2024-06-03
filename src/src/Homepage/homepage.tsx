@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { DataContext } from "../Context/context";
 import FirstScreen from "./Screens/FirstScreen/firstScreen";
-import SecondScreen from "../SecondScreen/secondScreen";
+import SecondScreen from "./Screens/SecondScreen/secondScreen";
 import "./homepage.css";
 
 function Homepage() {

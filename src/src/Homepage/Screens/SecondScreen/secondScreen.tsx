@@ -1,20 +1,20 @@
 import React, { useContext } from "react";
-import { DataContext } from "../Context/context";
-import Activity from "../ActivityFolder/activity";
-import PlayButton from "../asset/PlayButton.svg";
-import ArrowBack from "../asset/backArrowRect.svg";
-import Arrow from "../asset/Arrow.svg";
-import SingleHeartPic from "../asset/singleHeart.svg";
-import DualHeartPic from "../asset/dualHeart.svg";
-import LodingImg from "../asset/Loding1.svg";
-import GreyBanana from "../asset/GreyBanana.svg";
-import TiltCardPic1 from "../asset/TiltCard.svg";
-import TiltCardPic2 from "../asset/TiltCard1.svg";
-import LoadingLow from "../asset/loadingYellowLow.svg";
-import LoadingHalf from "../asset/loadingHalf.svg";
-import LoadingFull from "../asset/loadingFull.svg";
-import BananaFull from "../asset/bananaFull.svg";
-import WinnerScreen from "../asset/Final Rewards Screen.svg";
+import { DataContext } from "../../../Context/context";
+import Activity from "../../../ActivityFolder/activity";
+import PlayButton from "../../../asset/PlayButton.svg";
+import ArrowBack from "../../../asset/backArrowRect.svg";
+import Arrow from "../../../asset/Arrow.svg";
+import SingleHeartPic from "../../../asset/singleHeart.svg";
+import DualHeartPic from "../../../asset/dualHeart.svg";
+import LodingImg from "../../../asset/Loding1.svg";
+import GreyBanana from "../../../asset/GreyBanana.svg";
+import TiltCardPic1 from "../../../asset/TiltCard.svg";
+import TiltCardPic2 from "../../../asset/TiltCard1.svg";
+import LoadingLow from "../../../asset/loadingYellowLow.svg";
+import LoadingHalf from "../../../asset/loadingHalf.svg";
+import LoadingFull from "../../../asset/loadingFull.svg";
+import BananaFull from "../../../asset/bananaFull.svg";
+import WinnerScreen from "../../../asset/Final Rewards Screen.svg";
 
 import "./secondScreen.css";
 

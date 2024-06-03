@@ -1,7 +1,7 @@
 .secondScreen {
   width: 1512px;
   height: 982px;
-  background-image: url("../asset/backgroundImage.svg");
+  background-image: url("../../../asset/backgroundImage.svg");
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
